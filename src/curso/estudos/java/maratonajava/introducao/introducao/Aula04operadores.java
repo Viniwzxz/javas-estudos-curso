@@ -1,4 +1,4 @@
-package curso.estudos.java.maratonajava.introducao;
+package curso.estudos.java.maratonajava.introducao.introducao;
 
 public class Aula04operadores {
     public static void main(String[] args) {
@@ -28,6 +28,16 @@ public class Aula04operadores {
 
         boolean isPlaystationCincoCompravel = contacorrente > valorplaystation || contapopanca > valorplaystation;
         System.out.println("isPlaystationCincoCompravel "+isPlaystationCincoCompravel);
+        // operadores de atribuição sao eles =, +=, -=, *=, /=, %=
+        double bonus = 1800;
+        bonus = bonus + 1000; // mais pra frente pode usar bonus += 1000 para simplificar o código
+        System.out.println(bonus);
+        //
+        int contador = 0;
+        contador += 1;
+        System.out.println(contador);
+        // outra forma é contador ++ , se colocar os sinais antes primeiro ele vai incrementar pra depois executar
+
         
 
 

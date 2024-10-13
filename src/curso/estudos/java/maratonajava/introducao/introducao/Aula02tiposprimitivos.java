@@ -1,4 +1,4 @@
-package curso.estudos.java.maratonajava.introducao;
+package curso.estudos.java.maratonajava.introducao.introducao;
 
 import java.sql.SQLOutput;
 

@@ -1,4 +1,4 @@
-package curso.estudos.java.maratonajava.introducao;
+package curso.estudos.java.maratonajava.introducao.introducao;
 
 public class Aula03Tiposprimitivosexercicios {
     public static void main(String[] args) {
